@@ -4,7 +4,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Bogus" Version="33.0.2" />
-    <PackageReference Include="CountryData" Version="3.51.0" />
+    <PackageReference Include="CountryData" Version="3.55.0" />
     <PackageReference Include="MarkdownSnippets.MsBuild" Version="23.1.4" PrivateAssets="all" />
     <PackageReference Include="GeoJSON.Net" Version="1.2.19" />
     <PackageReference Include="HtmlAgilityPack" Version="1.11.33" />
